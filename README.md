@@ -1,5 +1,5 @@
 # Receive emails with SubEtha SMTP and Spring Boot
-This repository contains example about how to write an application based on Spring boot and SubEtha SMTP to receive emails.
+This repository contains example of how to write an application based on Spring boot and SubEtha SMTP to receive emails.
 
 ## Article
 Full post detailed the process available here : 
