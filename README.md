@@ -9,4 +9,4 @@ https://redamessoudi.com/receive-emails-with-subetha-springboot/
 ## Code
 I favour simplified code over production-ready code. Don't consider it as best practices, instead use it to understand the goal of the article.
 
-I consider a simple and explainable code as a first step to solve problems, best practices and design patterns come later.
+I consider simple and explainable code as a first step to solve problems, best practices and design patterns come later.
